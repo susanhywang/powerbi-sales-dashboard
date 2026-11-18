@@ -9,18 +9,18 @@ The goal of this dashboard is to help business leaders:
 - Analyze regional performance
 - Track profitability trends over time
 - Explore customer segment behavior
-Dashboard Features
-Executive KPIs
-Total Sales
-Total Profit
-Profit Margin %
-Total Orders
-Interactive Analysis
-Category Performance
-Sub-Category Analysis
-Regional Analysis
-Segment Analysis
-Time-Series Trends
+## Dashboard Features
+### Executive KPIs
+- Total Sales
+- Total Profit
+- Profit Margin %
+- Total Orders
+### Interactive Analysis
+- Category Performance
+- Sub-Category Analysis
+- Regional Analysis
+- Segment Analysis
+- Time-Series Trends
 Filtering
 Users can filter results by:
 

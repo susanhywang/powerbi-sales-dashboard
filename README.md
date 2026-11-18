@@ -21,13 +21,12 @@ The goal of this dashboard is to help business leaders:
 - Regional Analysis
 - Segment Analysis
 - Time-Series Trends
-Filtering
+### Filtering
 Users can filter results by:
-
-Year
-Segment
-Category
-Region
+- Year
+- Segment
+- Category
+- Region
 Tools Used
 Power BI
 Power Query

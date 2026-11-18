@@ -45,24 +45,22 @@ Users can filter results by:
 ![image alt](https://github.com/susanhywang/powerbi-sales-dashboard/blob/19f76f3b9fb66c3688f0e56442e4184026fd94b9/Sales1.png)
 ![image alt](https://github.com/susanhywang/powerbi-sales-dashboard/blob/f97b5897d915f6658b0c42a78254cc58da8cb23f/Sales2.png)
 ### Profit Analysis
-screenshots/profit.png
-
-Key Insights
-Technology generated the highest sales contribution.
-Profitability varied significantly across product categories.
-Regional performance showed differing growth patterns.
-Certain sub-categories generated strong sales but lower profit margins.
-Skills Demonstrated
-Dashboard Design
-Data Modeling
-DAX Measures
-KPI Development
-Business Analysis
-Executive Reporting
-Data Storytelling
-Author
+![image alt](https://github.com/susanhywang/powerbi-sales-dashboard/blob/7fe5aec371a5d24f6fae367dd4e3b350f3333032/Profit.png)
+## Key Insights
+- Technology generated the highest sales contribution.
+- Profitability varied significantly across product categories.
+- Regional performance showed differing growth patterns.
+- Certain sub-categories generated strong sales but lower profit margins.
+## Skills Demonstrated
+- Dashboard Design
+- Data Modeling
+- DAX Measures
+- KPI Development
+- Business Analysis
+- Executive Reporting
+- Data Storytelling
+## Author
 Susan Wang
-
 Business Analyst | Operational Risk Professional | Power BI Developer
 
 GitHub: https://github.com/susanhwang

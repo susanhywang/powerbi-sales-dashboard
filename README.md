@@ -43,6 +43,7 @@ Users can filter results by:
 ![image alt](https://github.com/susanhywang/powerbi-sales-dashboard/blob/192e177bd141a2fbba004e83f3c425abf3567774/overview.png)
 ### Sales Analysis
 ![image alt](https://github.com/susanhywang/powerbi-sales-dashboard/blob/19f76f3b9fb66c3688f0e56442e4184026fd94b9/Sales1.png)
+![image alt](https://github.com/susanhywang/powerbi-sales-dashboard/blob/f97b5897d915f6658b0c42a78254cc58da8cb23f/Sales2.png)
 ### Profit Analysis
 screenshots/profit.png
 

@@ -4,12 +4,11 @@
 This project is an interactive Power BI dashboard built using the Superstore Sales Dataset. The dashboard provides insights into sales performance, profitability, customer segments, product categories, and regional trends to support data-driven decision making.
 ## Business Objective
 The goal of this dashboard is to help business leaders:
-
-Monitor key sales and profit metrics
-Identify top-performing products and categories
-Analyze regional performance
-Track profitability trends over time
-Explore customer segment behavior
+- Monitor key sales and profit metrics
+- Identify top-performing products and categories
+- Analyze regional performance
+- Track profitability trends over time
+- Explore customer segment behavior
 Dashboard Features
 Executive KPIs
 Total Sales

@@ -34,11 +34,12 @@ Users can filter results by:
 - Category
 - Region
 ## Tools Used
-- Power BI
+- Power BI Desktop
 - Power Query
-- DAX
+- DAX Measures
 - Data Modeling
 - Data Visualization
+- Business Intelligence Reporting
 ## Dataset
 - Dataset: Superstore Sales Dataset
 - Source: https://www.kaggle.com/

@@ -61,6 +61,5 @@ Users can filter results by:
 - Data Storytelling
 ## Author
 Susan Wang
-Business Analyst | Operational Risk Professional | Power BI Developer
-
-GitHub: https://github.com/susanhwang
+- Business Analyst | Operational Risk Professional | Power BI Developer
+- GitHub: https://github.com/susanhwang

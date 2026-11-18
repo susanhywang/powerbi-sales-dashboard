@@ -1,5 +1,11 @@
-# Power BI Sales Dashboard
+# Power BI Superstore Sales Dashboard
 ![image alt](https://github.com/susanhywang/powerbi-sales-dashboard/blob/192e177bd141a2fbba004e83f3c425abf3567774/overview.png)
+## Highlights
+- $2.30M Total Sales
+- $286K Total Profit
+- 12.47% Profit Margin
+- Interactive filtering by Category, Segment, and Year
+- Regional and Product Performance Analysis
 ## Overview
 This project is an interactive Power BI dashboard built using the Superstore Sales Dataset. The dashboard provides insights into sales performance, profitability, customer segments, product categories, and regional trends to support data-driven decision making
 ## Business Objective

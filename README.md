@@ -27,22 +27,20 @@ Users can filter results by:
 - Segment
 - Category
 - Region
-Tools Used
-Power BI
-Power Query
-DAX
-Data Modeling
-Data Visualization
-Dataset
-Dataset: Superstore Sales Dataset
+## Tools Used
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Data Visualization
+## Dataset
+- Dataset: Superstore Sales Dataset
+- Source: https://www.kaggle.com/
+- Dataset is used for educational and portfolio purposes.
 
-Source: https://www.kaggle.com/
-
-Dataset is used for educational and portfolio purposes.
-
-Dashboard Preview
-Executive Overview
-screenshots/overview.png
+## Dashboard Preview
+### Executive Overview
+![image alt](https://github.com/susanhywang/powerbi-sales-dashboard/blob/192e177bd141a2fbba004e83f3c425abf3567774/overview.png)
 
 Sales Analysis
 screenshots/sales.png

@@ -46,6 +46,9 @@ Users can filter results by:
 - Implemented interactive slicers and cross-filtering
 - Developed KPI scorecards for executive reporting
 - Designed responsive and user-friendly dashboard layouts
+## Project Architecture
+### Solution Workflow
+Raw Dataset → Power Query Data Cleaning → Data Modeling → DAX Calculations → Dashboard Development → Executive Reporting & Insights
 ## Key DAX Measures
 - Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
 - Total Sales = SUM(Orders[Sales])

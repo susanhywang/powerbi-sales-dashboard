@@ -40,6 +40,12 @@ Users can filter results by:
 - Data Modeling
 - Data Visualization
 - Business Intelligence Reporting
+## Add Technical Highlights
+- Built a star-schema data model
+- Created DAX measures for Sales, Profit, Profit Margin, and Order Metrics
+- Implemented interactive slicers and cross-filtering
+- Developed KPI scorecards for executive reporting
+- Designed responsive and user-friendly dashboard layouts
 ## Dataset
 - Dataset: Superstore Sales Dataset
 - Source: https://www.kaggle.com/

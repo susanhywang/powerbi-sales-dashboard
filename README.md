@@ -63,7 +63,6 @@ Users can filter results by:
 ![image alt](https://github.com/susanhywang/powerbi-sales-dashboard/blob/f97b5897d915f6658b0c42a78254cc58da8cb23f/Sales2.png)
 ### Profit Analysis
 ![image alt](https://github.com/susanhywang/powerbi-sales-dashboard/blob/7fe5aec371a5d24f6fae367dd4e3b350f3333032/Profit.png)
-## Key Insights
 ## Business Insights & Recommendations
 ### Key Findings
 - Technology generated the highest sales revenue across all categories.

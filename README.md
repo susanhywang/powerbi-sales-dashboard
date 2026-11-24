@@ -7,7 +7,7 @@
 - Interactive filtering by Category, Segment, and Year
 - Regional and Product Performance Analysis
 ## Overview
-This project is an interactive Power BI dashboard built using the Superstore Sales Dataset. The dashboard provides insights into sales performance, profitability, customer segments, product categories, and regional trends to support data-driven decision making
+This Power BI dashboard analyzes $2.3M in sales data to provide executive-level insights into revenue, profitability, customer segments, product performance, and regional trends. The solution enables business leaders to quickly identify growth opportunities and profitability drivers through interactive visualizations.
 ## Business Objective
 The goal of this dashboard is to help business leaders:
 - Monitor key sales and profit metrics

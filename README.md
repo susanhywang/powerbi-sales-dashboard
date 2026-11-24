@@ -64,10 +64,17 @@ Users can filter results by:
 ### Profit Analysis
 ![image alt](https://github.com/susanhywang/powerbi-sales-dashboard/blob/7fe5aec371a5d24f6fae367dd4e3b350f3333032/Profit.png)
 ## Key Insights
-- Technology generated the highest sales contribution
-- Profitability varied significantly across product categories
-- Regional performance showed differing growth patterns
-- Certain sub-categories generated strong sales but lower profit margins
+## Business Insights & Recommendations
+### Key Findings
+- Technology generated the highest sales revenue across all categories.
+- Profitability varied significantly by product category, indicating opportunities for margin improvement.
+- Regional performance showed distinct growth patterns, suggesting the need for region-specific sales strategies.
+- Several sub-categories delivered strong sales volume but below-average profit margins.
+### Business Recommendations
+- Focus marketing and inventory investments on high-performing technology products.
+- Review pricing and cost structures for low-margin sub-categories.
+- Allocate resources toward regions demonstrating strong growth potential.
+- Monitor both sales and profit metrics to ensure revenue growth translates into sustainable profitability.
 ## Skills Demonstrated
 - Dashboard Design
 - Data Modeling

@@ -88,4 +88,4 @@ Raw Dataset → Power Query Data Cleaning → Data Modeling → DAX Calculations
 ## Author
 Susan Wang
 - Business Analyst | Operational Risk Professional | Power BI Developer
-- GitHub: https://github.com/susanhwang
+- GitHub: https://github.com/susanhywang

@@ -46,6 +46,10 @@ Users can filter results by:
 - Implemented interactive slicers and cross-filtering
 - Developed KPI scorecards for executive reporting
 - Designed responsive and user-friendly dashboard layouts
+## Key DAX Measures
+- Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
+- Total Sales = SUM(Orders[Sales])
+- Total Profit = SUM(Orders[Profit])
 ## Dataset
 - Dataset: Superstore Sales Dataset
 - Source: https://www.kaggle.com/

@@ -40,7 +40,7 @@ Users can filter results by:
 - Data Modeling
 - Data Visualization
 - Business Intelligence Reporting
-## Add Technical Highlights
+## Technical Highlights
 - Built a star-schema data model
 - Created DAX measures for Sales, Profit, Profit Margin, and Order Metrics
 - Implemented interactive slicers and cross-filtering

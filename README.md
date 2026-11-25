@@ -41,7 +41,7 @@ Users can filter results by:
 - Data Visualization
 - Business Intelligence Reporting
 ## Technical Highlights
-- Built a star-schema data model
+- Designed a clean analytical data model with custom DAX measures and calculated columns
 - Created DAX measures for Sales, Profit, Profit Margin, and Order Metrics
 - Implemented interactive slicers and cross-filtering
 - Developed KPI scorecards for executive reporting
